@@ -1,4 +1,4 @@
-const API_URL = "https://mind-metrics-1-jd9y.onrender.com/";
+const API_URL = "https://mind-metrics-1-jd9y.onrender.com/predict";
 
 const COUNTRIES = [
   "Other",
